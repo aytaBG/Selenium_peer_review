@@ -3,10 +3,10 @@ import time
 
 
 @pytest.mark.test
-def test_test(browser_select):
+def test_test(browser):
 
     link = 'https://www.wikipedia.org/'
-    browser_select.get(link)
+    browser.get(link)
 
     time.sleep(5)
 
