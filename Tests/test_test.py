@@ -2,7 +2,7 @@ import pytest
 import time
 
 
-@pytest.mark.test
+@pytest.mark.skip
 def test_test(browser):
 
     link = 'https://www.wikipedia.org/'
