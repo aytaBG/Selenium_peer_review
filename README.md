@@ -4,3 +4,9 @@
 
 Тест выводит текст с кнопки в терминал, смену языка можно проверять без таймера
 
+Первая и третья части : 
+
+https://github.com/aytaBG/SeleniumCourse
+
+https://github.com/aytaBG/Selenium-course-part-4
+
